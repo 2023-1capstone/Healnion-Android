@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomCalendarView" parent="@android:style/Widget.CalendarView">
+        <item name="android:textColorPrimary">#FFFFFF</item>
+    </style>
+
+
+</resources>
